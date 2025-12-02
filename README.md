@@ -19,5 +19,5 @@ This repository includes the exported code and my QA findings.
 ## Screenshots
 
 Dashboard: (/ScreenShots/Dashboard)<br>
-Uikit Builder: (/ScreenShots/UiKitBuilder)
-#Exported App Running: (/ScreenShots/ExportedAppRunning)
+Uikit Builder: (/ScreenShots/UiKitBuilder)<br>
+Exported App Running: (/ScreenShots/ExportedAppRunning)
